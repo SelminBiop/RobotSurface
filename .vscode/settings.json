@@ -1,4 +1,5 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=00025050de3e171c867957714ae0e5fd6954750d156b6f57"
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=a5430d7cfb129c022d0f5ae5bc7edee5d33af586b17eec08"
+
 }
